@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package cardio.validation;
+package tres.validation;
 
 import java.util.ArrayList;
 import java.util.List;
