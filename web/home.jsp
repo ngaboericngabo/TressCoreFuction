@@ -97,7 +97,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
                                           <p>Some Text Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text
                                           Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text
                                           Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text</p>
-                                          <a href="welcome" class="btn btn-primary btn-xlg btn-block glyphicon glyphicon-pencil ">Apply Service <b><span style="background-color: red;color: white" class="badge"></span></b></a>
+                                          <a href="welcome" class="btn btn-primary btn-xlg btn-block glyphicon glyphicon-pencil ">Apply to our Service now <b><span style="background-color: red;color: white" class="badge"></span></b></a>
                                </div>
             </div>
           </div>
@@ -169,7 +169,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
 
 
 <footer class="w3-container w3-theme-d5">
-    <center><p style="font-size: 20pt">Tress Templet<a href="#">@Tress 2018</a></p></center>
+    <center><p style="font-size: 20pt">Tress Templet<a href="#">@Tres 2018</a></p></center>
 </footer>
  
 <script>
