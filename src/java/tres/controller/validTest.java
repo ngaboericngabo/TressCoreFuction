@@ -60,7 +60,7 @@ MyValidation valid=new MyValidation();
     
 			error.setAttribute("errorList",valid.getErrors());
    
-         response.sendRedirect("index_2.jsp");
+         response.sendRedirect("home.jsp");
        
     }
 
