@@ -94,7 +94,7 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Open Sans", sans-serif}
                                </div>
                   <br>
                                <div class="col-md-5">
-                                          <p>Some Text Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text
+                                          <p>changes done changes donechanges donechanges donechanges donechanges donechanges done
                                           Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text
                                           Some TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome TextSome Text</p>
                                           <a href="welcome" class="btn btn-primary btn-xlg btn-block glyphicon glyphicon-pencil ">Apply to our Service now <b><span style="background-color: red;color: white" class="badge"></span></b></a>
