@@ -6,7 +6,7 @@
 
 package tres.controller;
 
-import cardio.validation.MyValidation;
+import tres.validation.MyValidation;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
